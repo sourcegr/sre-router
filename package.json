@@ -1,0 +1,18 @@
+{
+  "name": "sre-router",
+  "version": "0.0.8",
+  "description": "A router for Svelte apps",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:source-development/svelte/sre-router.git"
+  },
+  "author": "Vageli Papadogiannakis",
+  "license": "MIT",
+  "peerDependencies": {
+    "svelte": "^3.22.2"
+  }
+}
